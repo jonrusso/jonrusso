@@ -1,5 +1,9 @@
-## Welcome to my profile!💜🐼
-
+<img
+  align="center"
+  src="https://i.imgur.com/J2FDMZS.png"
+  alt="lexmarcos header"
+  height="auto"
+/>
 <div>
   <a href="https://github.com/jonrusso">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jonrusso&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
