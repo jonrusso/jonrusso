@@ -16,8 +16,8 @@
   <img align="center" alt="REACT" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="NODEJS" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="FIGMA" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="JAVA" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="PYTHON" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Jupyter" height="50" width="50" <img src="<i class="devicon-jupyter-plain-wordmark colored"></i>">
 </div>
  
  <br>
